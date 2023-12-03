@@ -1,3 +1,7 @@
+---
+quickshare-date: 2023-12-03 13:36:55
+quickshare-url: "https://noteshare.space/note/clpptqqu5360001mwync5a3nj#CzjQ2661WdajuGVQiQioqaF3gQUfFmGaIA/cjV2OO/A"
+---
 Pour trouver l'erreur à un échelon de consigne, il faut que l'on connaisse déjà la fonction de transfert _G_ du système $G = G_c G_p$. 
 
 Ce que l'on cherche est l'erreur :
