@@ -35,11 +35,10 @@
             "id": "09925f2d5481961d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Systèmes et commande linéaires/Trouver l'erreur à un échelon de consigne.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/quickshare.json",
+                "staged": false
               }
             }
           }
@@ -110,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Systèmes et commande linéaires/Trouver l'erreur à un échelon de consigne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +125,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Systèmes et commande linéaires/Trouver l'erreur à un échelon de consigne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Systèmes et commande linéaires/Trouver l'erreur à un échelon de consigne.md"
-              }
+              "state": {}
             }
           },
           {
@@ -189,9 +184,9 @@
   },
   "active": "09925f2d5481961d",
   "lastOpenFiles": [
-    "Systèmes et commande linéaires/Minimiser l'erreur statique.md",
     "Systèmes et commande linéaires/Trouver l'erreur à un échelon de consigne.md",
     "Systèmes et commande linéaires/Chapitre 14.md",
+    "Systèmes et commande linéaires/Minimiser l'erreur statique.md",
     "Narvat's ultimate notes.md",
     "Systèmes et commande linéaires/SCL.md",
     "Systèmes et commande linéaires/Erreur Statique.md",
