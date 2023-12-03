@@ -1,7 +1,3 @@
----
-quickshare-date: 2023-12-02 20:21:25
-quickshare-url: "https://noteshare.space/note/clposr0vd207201mw7f38mvvj#OiBeas/eavU49TU3THCUrq9FTijoAYmpQgC0f4NT/gE"
----
 Pour minimiser l'[[Erreur Statique]], vous souhaitez que le gain (K) à basse fréquence (approchant de ω=0) soit élevé, car cela indique une forte réaction aux erreurs constantes dans le système. 
 
 En termes de fonctions de transfert, cela signifie que le terme intégral (I) doit être augmenté.

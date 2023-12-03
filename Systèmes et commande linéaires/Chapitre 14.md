@@ -1,0 +1,1 @@
+1. [[Minimiser l'erreur statique]]
