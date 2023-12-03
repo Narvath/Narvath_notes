@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Une marge de phase est une mesure de la robustesse d'un système de contrôle en boucle fermée vis-à-vis de la stabilité.
 
 Cette phase importe sur plusieurs points du système soit:

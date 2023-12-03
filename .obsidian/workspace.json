@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narvat's ultimate notes.md",
+                "file": "Systèmes et commande linéaires/SCL.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narvat's ultimate notes.md",
+                "file": "Systèmes et commande linéaires/SCL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narvat's ultimate notes.md",
+                "file": "Systèmes et commande linéaires/SCL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narvat's ultimate notes.md"
+                "file": "Systèmes et commande linéaires/SCL.md"
               }
             }
           },
@@ -203,11 +203,11 @@
   "active": "546461f732c95087",
   "lastOpenFiles": [
     "Systèmes et commande linéaires/Chapitre 14.md",
+    "Systèmes et commande linéaires/Erreur Statique.md",
+    "Systèmes et commande linéaires/Marge de phase.md",
+    "Systèmes et commande linéaires/Minimiser l'erreur statique.md",
     "Systèmes et commande linéaires/SCL.md",
     "Narvat's ultimate notes.md",
-    "Systèmes et commande linéaires/Minimiser l'erreur statique.md",
-    "Systèmes et commande linéaires/Marge de phase.md",
-    "Systèmes et commande linéaires/Erreur Statique.md",
     "Sans titre.canvas",
     "2023-12-02.md"
   ]
