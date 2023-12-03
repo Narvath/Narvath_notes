@@ -1,0 +1,1 @@
+La marge de gain fait référence à la plage de gain que l'on peut appliquer au système avant que celui-ci devienne instable.

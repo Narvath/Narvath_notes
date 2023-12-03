@@ -35,15 +35,28 @@
             "id": "09925f2d5481961d",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/quickshare.json",
-                "staged": false
+                "file": "Systèmes et commande linéaires/Trouver l'erreur à un échelon de consigne.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4309f029bdacfe09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Systèmes et commande linéaires/Trouver l'erreur à un échelon de consigne.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -109,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Systèmes et commande linéaires/Trouver l'erreur à un échelon de consigne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Systèmes et commande linéaires/Trouver l'erreur à un échelon de consigne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Systèmes et commande linéaires/Trouver l'erreur à un échelon de consigne.md"
+              }
             }
           },
           {
@@ -182,15 +199,16 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "09925f2d5481961d",
+  "active": "4309f029bdacfe09",
   "lastOpenFiles": [
-    "Systèmes et commande linéaires/Trouver l'erreur à un échelon de consigne.md",
-    "Systèmes et commande linéaires/Chapitre 14.md",
     "Systèmes et commande linéaires/Minimiser l'erreur statique.md",
-    "Narvat's ultimate notes.md",
-    "Systèmes et commande linéaires/SCL.md",
     "Systèmes et commande linéaires/Erreur Statique.md",
     "Systèmes et commande linéaires/Marge de phase.md",
+    "Systèmes et commande linéaires/Marge de gain.md",
+    "Systèmes et commande linéaires/Trouver l'erreur à un échelon de consigne.md",
+    "Systèmes et commande linéaires/Chapitre 14.md",
+    "Narvat's ultimate notes.md",
+    "Systèmes et commande linéaires/SCL.md",
     "Sans titre.canvas",
     "2023-12-02.md"
   ]
