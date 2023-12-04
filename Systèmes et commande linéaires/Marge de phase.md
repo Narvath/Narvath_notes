@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 Une marge de phase est une mesure de la robustesse d'un système de contrôle en boucle fermée vis-à-vis de la stabilité.
 
 Cette phase importe sur plusieurs points du système soit:
@@ -13,5 +10,9 @@ Cette phase importe sur plusieurs points du système soit:
 4. **Confort**
 	1. Dans beaucoup d'applications pratiques, une marge de phase suffisante contribue non seulement à la stabilité mais aussi au confort d'utilisation et à la performance opérationnelle. Par exemple, dans les systèmes de contrôle de véhicules ou d'avions, une bonne marge de phase assure que le système réagit de manière prévisible et douce aux commandes.
 
-Par exemple, une marge de phase de 30$\degree$ donnerait une phase de :
--180 $\degree$ + 30$\degree$ = -150$\degree$. Lorsqu'on optimise le K d'une fonction de transfert à ce déphasage, il devient le point critique de stabilité du système. Il aurait toutefois une marge de stabilité de 30$\degree$ avant d'atteindre -180$\degree$ et de devenir instable.
+
+Pour trouver la marge de phase, on regarde vers quelle phase tends notre système à hautes fréquences (voir diagramme de phase de Bode) puis on calcul le nombre de $\degree$ restants avant d'attendre $-180\degree$
+
+Par exemple, si on a un système de premier ordre qui tends vers $-90\degree$, on a une marge de phase de $90\degree$.
+
+Autre exemple, si on veux se garder une marge de phase de 45$\degree$ (question de stabilité, on finirait avec une phase de : -180 $\degree$ + 45$\degree$ = -135$\degree$.
