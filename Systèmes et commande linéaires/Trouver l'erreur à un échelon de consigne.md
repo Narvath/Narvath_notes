@@ -9,7 +9,7 @@ $$Consigne - H$$
 où $$H = G_{bouclefermee} \times \text{Consigne}$$*(H, c'est la partie de retour (feedback) du système)*
 
 et où 
-$$G_{boucleFermee}= \frac{K}{1 + K}$$
+$$\text{gain statique de H}= \frac{K}{1 + K}$$
 *$G_{boucleFermee}$ n'est que la simplification de la fonction de transfert du système lorsqu'on rajoute une boucle de rétroaction négative à la fct de transfert G. C'est G lorsqu'il est mis dans un système!*
 
 Reprenons avec l'exemple suivant en utilisant un échelon unitaire comme entrée *(consigne)* pour tester:
