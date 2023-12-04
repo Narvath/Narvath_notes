@@ -14,6 +14,6 @@ On aurait ainsi:
 $$1 - (\frac{18,8}{1 + 18,8} \times 1) = 0,05$$
 
 TLDR: 
-1. On rajoute une boule de rétroaction à G pour en faire un système ($G_{boucleFermee}$) et on le multiplie par l'entée du système.
-2. On prends le Feedback du système (H) et on le multiplie par l'entée du système.
-3. On soustraie les deux et cela donne l'erreur à la consigne
+1. On prends l'entrée du système
+2. On prends le gain statique du Feedback du système (H) et on le multiplie par l'entée du système.
+3. On soustraie l'entée du système à H x Consigne et cela donne l'erreur à la consigne
