@@ -71,9 +71,11 @@
             "id": "acafeb622d5193f0",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.8"
+                "file": "Système d'exploitation/Introduction.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
