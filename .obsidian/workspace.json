@@ -162,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5
+    "width": 287.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,8 +175,9 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "856b16f9eae53e15",
+  "active": "bc22a8a769dbb838",
   "lastOpenFiles": [
+    "README.md",
     "Système d'exploitation/Concurrence.md",
     "Système d'exploitation/Threads.md",
     "Système d'exploitation/Processus.md",
