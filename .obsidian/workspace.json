@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "187471dd35768866",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Système d'exploitation/Threads.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f60b5f283f8a07f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Système d'exploitation/Concurrence.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "df3635ea80098490",
             "type": "leaf",
             "state": {
@@ -68,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -214,12 +190,12 @@
   },
   "active": "df3635ea80098490",
   "lastOpenFiles": [
-    "Système d'exploitation/Introduction.md",
+    "Système d'exploitation/Processus.md",
+    "Système d'exploitation/Threads.md",
     "Système d'exploitation/Concurrence.md",
+    "Système d'exploitation/Introduction.md",
     "Réseaux de transmission de données/Matière à l'examen de mi-session.md",
     "Système d'exploitation/Ordonnancement.md",
-    "Système d'exploitation/Threads.md",
-    "Système d'exploitation/Processus.md",
     "Réseaux de transmission de données/Couches.md",
     "Système d'exploitation",
     "Systèmes et commande linéaires/Minimiser l'erreur statique.md",
