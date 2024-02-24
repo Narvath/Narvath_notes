@@ -66,9 +66,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "acafeb622d5193f0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -212,7 +222,7 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "df3635ea80098490",
+  "active": "acafeb622d5193f0",
   "lastOpenFiles": [
     "Système d'exploitation/Concurrence.md",
     "Réseaux de transmission de données/Matière à l'examen de mi-session.md",
