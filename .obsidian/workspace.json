@@ -188,12 +188,14 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "df3635ea80098490",
+  "active": "89ab06127da773b3",
   "lastOpenFiles": [
+    "Système d'exploitation/Images/PCB vs TCB.png",
     "Système d'exploitation/Processus.md",
     "Système d'exploitation/Threads.md",
-    "Système d'exploitation/Concurrence.md",
+    "Système d'exploitation/Images",
     "Système d'exploitation/Introduction.md",
+    "Système d'exploitation/Concurrence.md",
     "Réseaux de transmission de données/Matière à l'examen de mi-session.md",
     "Système d'exploitation/Ordonnancement.md",
     "Réseaux de transmission de données/Couches.md",
