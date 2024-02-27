@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 234.5,
+    "collapsed": true
   },
   "right": {
     "id": "2e75a99bd83022db",
@@ -163,7 +164,7 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "3d2b4cb815a9a4bb",
+  "active": "d8752910fb21a0cd",
   "lastOpenFiles": [
     "Système d'exploitation/Threads.md",
     "README.md",
