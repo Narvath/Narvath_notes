@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "be29fbb7834cb587",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,7 +164,7 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "be29fbb7834cb587",
+  "active": "3d2b4cb815a9a4bb",
   "lastOpenFiles": [
     "Système d'exploitation/Threads.md",
     "README.md",
