@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f2ea0514b2125790",
+        "id": "8e901577a78e8c18",
         "type": "tabs",
         "children": [
           {
-            "id": "b472f8d3fffa8011",
+            "id": "87f5ec60c2c3fa29",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Système d'exploitation/Ordonnancement.md",
+                "file": "Réseaux de transmission de données/Semaine 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Système d'exploitation/Ordonnancement.md",
+                "file": "Réseaux de transmission de données/Semaine 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Système d'exploitation/Ordonnancement.md",
+                "file": "Réseaux de transmission de données/Semaine 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Système d'exploitation/Ordonnancement.md"
+                "file": "Réseaux de transmission de données/Semaine 1.md"
               }
             }
           },
@@ -164,18 +164,21 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "b472f8d3fffa8011",
+  "active": "87f5ec60c2c3fa29",
   "lastOpenFiles": [
+    "Réseaux de transmission de données/Images/5 couches.png",
+    "Réseaux de transmission de données/Images",
+    "README.md",
+    "Réseaux de transmission de données/Semaine 1.md",
+    "Réseaux de transmission de données/Matière à l'examen de mi-session.md",
+    "Pasted image 20240228162205.png",
     "Système d'exploitation/Ordonnancement.md",
     "Système d'exploitation/Concurrence.md",
     "Système d'exploitation/Threads.md",
-    "README.md",
     "Système d'exploitation/Processus.md",
     "Système d'exploitation/Introduction.md",
-    "Réseaux de transmission de données/Matière à l'examen de mi-session.md",
     "Système d'exploitation/Images/PCB vs TCB.png",
     "Système d'exploitation/Images",
-    "Réseaux de transmission de données/Couches.md",
     "Système d'exploitation",
     "Systèmes et commande linéaires/Minimiser l'erreur statique.md",
     "Réseaux de transmission de données",
