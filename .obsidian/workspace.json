@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e2f637e5bd31f6a1",
+        "id": "f2ea0514b2125790",
         "type": "tabs",
         "children": [
           {
-            "id": "5ff96741dda6dbe1",
+            "id": "b472f8d3fffa8011",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -110,16 +110,6 @@
             }
           },
           {
-            "id": "856b16f9eae53e15",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Système d'exploitation/Ordonnancement.md"
-              }
-            }
-          },
-          {
             "id": "a1d88c98a9e936b7",
             "type": "leaf",
             "state": {
@@ -127,6 +117,16 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "856b16f9eae53e15",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Système d'exploitation/Ordonnancement.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -164,13 +164,13 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "5ff96741dda6dbe1",
+  "active": "b472f8d3fffa8011",
   "lastOpenFiles": [
+    "Système d'exploitation/Ordonnancement.md",
     "Système d'exploitation/Concurrence.md",
     "Système d'exploitation/Threads.md",
     "README.md",
     "Système d'exploitation/Processus.md",
-    "Système d'exploitation/Ordonnancement.md",
     "Système d'exploitation/Introduction.md",
     "Réseaux de transmission de données/Matière à l'examen de mi-session.md",
     "Système d'exploitation/Images/PCB vs TCB.png",
