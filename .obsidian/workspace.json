@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "8e901577a78e8c18",
+        "id": "c0b3176b80e5d0b2",
         "type": "tabs",
         "children": [
           {
-            "id": "87f5ec60c2c3fa29",
+            "id": "4ee6bd8e90b447b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Réseaux de transmission de données/Semaine 1.md",
+                "file": "Réseaux de transmission de données/Semaine 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3469827d99a0841a",
+            "id": "ef980a22ef15d779",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Réseaux de transmission de données/Semaine 2.md",
+                "file": "Réseaux de transmission de données/Semaine 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5,
-    "collapsed": true
+    "width": 234.5
   },
   "right": {
     "id": "2e75a99bd83022db",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Réseaux de transmission de données/Semaine 2.md",
+                "file": "Réseaux de transmission de données/Semaine 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Réseaux de transmission de données/Semaine 2.md",
+                "file": "Réseaux de transmission de données/Semaine 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Réseaux de transmission de données/Semaine 2.md"
+                "file": "Réseaux de transmission de données/Semaine 3.md"
               }
             }
           },
@@ -177,12 +176,13 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "3469827d99a0841a",
+  "active": "ef980a22ef15d779",
   "lastOpenFiles": [
-    "Réseaux de transmission de données/Matière à l'examen de mi-session.md",
     "Réseaux de transmission de données/Semaine 2.md",
-    "Réseaux de transmission de données/Images/Adresses à connaître.png",
+    "Réseaux de transmission de données/Semaine 3.md",
     "Réseaux de transmission de données/Semaine 1.md",
+    "Réseaux de transmission de données/Matière à l'examen de mi-session.md",
+    "Réseaux de transmission de données/Images/Adresses à connaître.png",
     "Réseaux de transmission de données/Images/5 couches.png",
     "Réseaux de transmission de données/Images",
     "README.md",

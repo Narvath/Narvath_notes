@@ -1,4 +1,4 @@
-## Les 5 couches réseau
+## Les 5 couches (pile) réseau
  ![[5 couches.png]]
 
 ## Délais
