@@ -4,3 +4,4 @@ La couche réseau a deux fonctions de bases:
 - **Routage**
   Détermine le chemin à emprunter pour atteindre une destination. Fonction effectuée dans le plan de contrôle (control plane). 
 	- Algorithmes de routage
+
