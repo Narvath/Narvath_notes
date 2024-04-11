@@ -16,3 +16,4 @@ doit identifier vers quelle application acheminer le message.
 	Correspond au socket réseau utilisé par l'application
 ### Socket
 Un socket réseau est une porte entre l'application et le réseau.
+
