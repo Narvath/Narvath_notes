@@ -1,4 +1,6 @@
 [
   "obsidian-quickshare",
-  "obsidian-git"
+  "obsidian-git",
+  "colored-text",
+  "highlightr-plugin"
 ]

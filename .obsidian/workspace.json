@@ -37,24 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Réseaux de transmission de données/Chapitre 5.md",
+                "file": "Réseaux de transmission de données/UDP.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "76cad57a45740ce7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.11"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Réseaux de transmission de données/Chapitre 5.md",
+                "file": "Réseaux de transmission de données/UDP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Réseaux de transmission de données/Chapitre 5.md",
+                "file": "Réseaux de transmission de données/UDP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Réseaux de transmission de données/Chapitre 5.md"
+                "file": "Réseaux de transmission de données/UDP.md"
               }
             }
           },
@@ -198,11 +188,12 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "76cad57a45740ce7",
+  "active": "9020059a9fcc4161",
   "lastOpenFiles": [
+    "Réseaux de transmission de données/Chapitre 5.md",
+    "Réseaux de transmission de données/UDP.md",
     "Réseaux de transmission de données/Semaine 2.md",
     "Réseaux de transmission de données/Semaine 1.md",
-    "Réseaux de transmission de données/Chapitre 5.md",
     "Réseaux de transmission de données/Semaine 9.md",
     "Réseaux de transmission de données/Semaine 4.md",
     "Réseaux de transmission de données/Images/5 couches.png",
