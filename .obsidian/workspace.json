@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "76cad57a45740ce7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -188,7 +198,7 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "9020059a9fcc4161",
+  "active": "76cad57a45740ce7",
   "lastOpenFiles": [
     "Réseaux de transmission de données/Semaine 2.md",
     "Réseaux de transmission de données/Semaine 1.md",
